@@ -11,7 +11,7 @@ javac Murmur3HashFunction.java
 
 Run:
 <code>
-java Murmur3HashFunction <string length> <string array size>
+java Murmur3HashFunction [string length] [string array size]
 </code>
 
 Example:
