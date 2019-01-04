@@ -1,4 +1,4 @@
-Generate random string array and apply hash function
+Generate random string array and apply hash function. Outputs runtime in  milliseconds
 
 Hash string - from Elastic 
 
