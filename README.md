@@ -10,6 +10,7 @@ javac Murmur3HashFunction.java
 
 java Murmur3HashFunction 700 10000000
 </code>
+
 First param - string length 
 
 Second param - string array size 
