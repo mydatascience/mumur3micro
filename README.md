@@ -1,6 +1,6 @@
 Generate random string array and apply hash function
 
-Hash string - from Elastic /n
+Hash string - from Elastic \n
 Alternative Murmur3Hash - from Lucene
 
 usage:
