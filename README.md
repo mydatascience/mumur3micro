@@ -4,13 +4,18 @@ Hash string - from Elastic
 
 Alternative Murmur3Hash - from Lucene
 
-usage:
+Compile:
 <code>
 javac Murmur3HashFunction.java
+</code>
 
+Run:
+<code>
+java Murmur3HashFunction <string length> <string array size>
+</code>
+
+Example:
+<code>
 java Murmur3HashFunction 700 10000000
 </code>
 
-First param - string length 
-
-Second param - string array size 
